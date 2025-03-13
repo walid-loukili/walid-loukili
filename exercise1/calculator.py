@@ -41,6 +41,7 @@ def multiply(a: Number, b: Number) -> Number:
     return a * b
 
 
+
 def divide(a: Number, b: Number) -> Number:
     """
     Return the result of dividing a by b.
